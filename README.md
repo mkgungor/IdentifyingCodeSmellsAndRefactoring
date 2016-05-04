@@ -1,4 +1,4 @@
-# Identifying Code Smells And Refactoring
+# Identifying Code Smells And Refactoring To Improve Software Quality
 
 Identified several code smells like Long Method, God Class, Switch Statement Smell, Feature Envy, etc for an open source project and refactored code to remove them.
 

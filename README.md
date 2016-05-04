@@ -22,5 +22,4 @@ Unconditional Wait
 Wait not in loop	                               
 Write to Static Field from Instance method	     	
 Long Parameter List	                            	
-Middle Man	                                    	
-
+Middle Man
